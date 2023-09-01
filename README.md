@@ -1,10 +1,8 @@
 Hi 👋 My name is Vincentius Tampubolon
 ======================================
 
-Android Developer
+Software Engineer
 -----------------
-
-Final year university student that has interest in Android Development and Backend Development
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [vincentiustampubolon2@gmail.com](mailto:vincentiustampubolon2@gmail.com)
@@ -22,6 +20,8 @@ Final year university student that has interest in Android Development and Backe
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Socials
 
