@@ -4,33 +4,44 @@ Hi 👋 My name is Vincentius Tampubolon
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [vincentiustampubolon2@gmail.com](mailto:vincentiustampubolon2@gmail.com)
+I build reliable backend systems and full-stack products, with focus on APIs, data, cloud infrastructure, and practical software architecture.
 
-### Tech Stack
+- Based in Indonesia
+- Open to Software Engineer opportunities
+- Contact: [vincentiustampubolon2@gmail.com](mailto:vincentiustampubolon2@gmail.com)
 
+## Tech Stack
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+**Backend**
 
-### Socials
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/vincentjordan27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vincentiust_21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+**Data and Messaging**
 
-### Badges
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-<b>My GitHub Stats</b>
+**Cloud and Platform**
 
-<a href="http://www.github.com/vincentjordan27"><img src="https://github-readme-stats.vercel.app/api?username=vincentjordan27&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vincentjordan27's GitHub stats" /></a>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<a href="http://www.github.com/vincentjordan27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vincentjordan27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Connect
+
+[GitHub](https://github.com/vincentjordan27) · [Instagram](https://www.instagram.com/vincentiust_21)
+
+## GitHub Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vincentjordan27&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentjordan27&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Top languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=vincentjordan27&amp;hide_border=true&amp;background=00000000" alt="GitHub contribution streak" />
