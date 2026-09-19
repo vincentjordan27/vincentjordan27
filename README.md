@@ -40,8 +40,12 @@ I build reliable backend systems and full-stack products, with focus on APIs, da
 ## GitHub Activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vincentjordan27&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentjordan27&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vincentjordan27&theme=github_dark" alt="GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vincentjordan27&theme=github_dark" alt="Repositories by language" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=vincentjordan27&amp;hide_border=true&amp;background=00000000" alt="GitHub contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincentjordan27&theme=github_dark" alt="GitHub contribution graph" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=vincentjordan27&theme=dark&hide_border=true" alt="GitHub contribution streak" />
